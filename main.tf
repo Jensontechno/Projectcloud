@@ -9,7 +9,7 @@ stage ('Terraform init') {
 steps {
 }
 }
-stage('Terraform apply') {
+stage ('Terraform apply') {
 steps {
 }
 }
